@@ -1,8 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <br>
 <h1 align="center">TUGAS ANALISIS SISTEM INFORMASI DAYCARE BERBASIS OBJEK</h1>
-
-Ferry Achmad Akbar - 4522210088 <br>
+<h3 align="center">Ferry Achmad Akbar - 4522210088</h1>
 
 ## Analisis Kebutuhan
 #### Data Anak
@@ -40,10 +39,3 @@ Berpartisipasi dalam kegiatan dan menerima layanan daycare.
 ## Class Diagram
 ![classdiagramdaycare](https://github.com/FerryAchmadAkbar4522210088/APBO-A-4522210088/assets/167895970/30b83738-2f1c-4aab-818e-1e15392eb07a)
 
-## Wireframe Aplikasi
-#### Link Wireframe Figma
-https://www.figma.com/file/oYdJmxYLtNmLOefQcugpSB/Logo?type=design&node-id=116%3A2&mode=design&t=9SzPlQhRST776gkv-1
-
-## Youtube
-#### Link Youtube Persentasi
-https://www.youtube.com/watch?v=-pdIkh4bsM0
