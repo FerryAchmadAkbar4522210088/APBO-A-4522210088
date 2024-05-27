@@ -1,5 +1,4 @@
-![daycareimage](https://github.com/FerryAchmadAkbar4522210088/APBO-A-4522210088/assets/167895970/056632a1-652f-4cd4-bf75-ef8edebc1dae)
-)
+![Daycare Free Font · Pinspiry](https://github.com/FerryAchmadAkbar4522210088/APBO-A-4522210088/assets/167895970/e49bdadd-090f-4cad-bd00-855a06ba9fec)
 <br>
 <h1 align="center">TUGAS ANALISIS SISTEM INFORMASI DAYCARE BERBASIS OBJEK</h1>
 <h3 align="center">Ferry Achmad Akbar - 4522210088</h1>
