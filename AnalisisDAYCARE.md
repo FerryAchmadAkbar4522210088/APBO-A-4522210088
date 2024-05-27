@@ -1,4 +1,5 @@
-![MasterHead](https://tenor.com/id/view/teachers-series-gif-5589557)
+![daycareimage](https://github.com/FerryAchmadAkbar4522210088/APBO-A-4522210088/assets/167895970/056632a1-652f-4cd4-bf75-ef8edebc1dae)
+)
 <br>
 <h1 align="center">TUGAS ANALISIS SISTEM INFORMASI DAYCARE BERBASIS OBJEK</h1>
 <h3 align="center">Ferry Achmad Akbar - 4522210088</h1>
