@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
+![MasterHead](https://tenor.com/id/view/teachers-series-gif-5589557)
 <br>
 <h1 align="center">TUGAS ANALISIS SISTEM INFORMASI DAYCARE BERBASIS OBJEK</h1>
 <h3 align="center">Ferry Achmad Akbar - 4522210088</h1>
