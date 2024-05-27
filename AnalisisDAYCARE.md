@@ -4,14 +4,18 @@
 <h3 align="center">Ferry Achmad Akbar - 4522210088</h1>
 
 ## Analisis Kebutuhan
-#### Data Anak
+#### Anak
 namaanak, tanggallahir, alamatanak, wali, informasikesehatananak.
-#### Data Wali
+#### Wali
 namawali, alamatwali, nomorteleponwali, emailwali.
-Data Staf: namastaf, alamatstaf, nomorteleponstaf, emailstaf, kualifikasi, jadwalkerja.
-Jadwal: waktubuka, waktututup, libur, jadwalkegiatananak.
-Kehadiran: kehadirananak, staf, kegiatan.
-Laporan: kehadiran, aktivitas, perkembangananak, keuangan.
+#### Staf
+namastaf, alamatstaf, nomorteleponstaf, emailstaf, kualifikasi, jadwalkerja.
+#### Jadwal
+waktubuka, waktututup, libur, jadwalkegiatananak.
+#### Kehadiran
+kehadirananak, staf, kegiatan.
+#### Laporan
+kehadiran, aktivitas, perkembangananak, keuangan.
 
 ## Aktor
 #### Admin
