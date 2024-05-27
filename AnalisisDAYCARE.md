@@ -26,19 +26,19 @@ Berpartisipasi dalam kegiatan dan menerima layanan daycare.
 
 ## Usecase
 #### Admin
-![use case admin](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167953699/05d73bfd-9ada-4947-b444-dec686c21dc3)
+![usecaseadmin](https://github.com/FerryAchmadAkbar4522210088/APBO-A-4522210088/assets/167895970/6a957150-1133-43cb-b348-6f3b739e0b9e)
 #### Staf
-![use case tailor](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167953699/61ecdcce-c9a2-4f23-8671-bb60b80f195e)
+![usecasestaf](https://github.com/FerryAchmadAkbar4522210088/APBO-A-4522210088/assets/167895970/1bc01b07-bbf9-4ce1-a0b9-d8862066cbe5)
 #### Wali
-![use case customer 2](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167953699/003eafd1-c742-4556-ba0f-227a8c89d849)
+![usecasewali](https://github.com/FerryAchmadAkbar4522210088/APBO-A-4522210088/assets/167895970/d65152bf-637a-417e-9b24-eaba71076490)
 #### Anak
-![use case customer 2](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167953699/003eafd1-c742-4556-ba0f-227a8c89d849)
+![usecaseanak](https://github.com/FerryAchmadAkbar4522210088/APBO-A-4522210088/assets/167895970/065a047e-5435-4c99-ab7a-266d758fba94)
 
 ## ERD
-![erd](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167945633/6f00c2d4-947b-42d6-a6bc-c2e713ddc77b)
+![erd](https://github.com/FerryAchmadAkbar4522210088/APBO-A-4522210088/assets/167895970/1b9c57bf-444d-4b15-b869-e16c2e653858)
 
 ## Class Diagram
-![uml](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167945633/1027ea11-3a08-42dd-b7a6-cb57de3b7112)
+![classdiagramdaycare](https://github.com/FerryAchmadAkbar4522210088/APBO-A-4522210088/assets/167895970/30b83738-2f1c-4aab-818e-1e15392eb07a)
 
 ## Wireframe Aplikasi
 #### Link Wireframe Figma
